@@ -1,4 +1,4 @@
-module github.com/crawlab-team/go-trace
+module github.com/buliqioqiolibusdo/go-trace
 
 go 1.16
 
